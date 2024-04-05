@@ -1,2 +1,2 @@
 # homelander
-landing ai template
+landing ai template with embedded stripe checkout 
