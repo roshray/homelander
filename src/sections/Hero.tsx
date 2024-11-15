@@ -1,7 +1,10 @@
 
 export default function  Hero() {
     return (
-        <h1>HERO</h1>
+        <div className="">
+            <span>hersections</span>
+        </div>
+        
     )
 
 }
