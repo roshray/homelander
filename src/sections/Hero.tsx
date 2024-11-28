@@ -1,7 +1,7 @@
 import Button from "@/components/ui/Button";
 import starBg from "@/assets/stars.png"
 
-export default function  Hero() {
+export const  Hero = () => {
     return (
         <section className="h-[492px] md:h-[800px] flex items-center overflow-hidden relative [mask-image:linear-gradient(to_bottom,transparent,black_10%,black_90%,transparent)]" style={{
             backgroundImage: `url(${starBg.src})`
