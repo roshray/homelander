@@ -98,9 +98,9 @@ export const  Hero = () => {
             </motion.div>
             <div className="container relative mt-16">
                 <h1 className="text-8xl md:text-[168px] md:leading-none font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text text-center">
-                    K KCC
+                    KCC
                 </h1>
-                <p className="text-lg md:text-xl text-white/70  mt-5 text-center max-w-xl mx-auto">a hangout place of all budding comic!</p>
+                <p className="text-lg md:text-xl text-white/70  mt-5 text-center max-w-xl mx-auto">Hangout place of all budding comic</p>
                 <div className="flex justify-center mt-8">
                     <Button>Open Mic</Button>
                 </div>
