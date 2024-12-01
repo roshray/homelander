@@ -21,7 +21,7 @@ const testimonials = [
     },
     {
         text: "Great ambience,stunning stage",
-        name: "Aakash Gupta",
+        name: "Aakash @GameStop",
         title: "Comic & Batsmaan",
         avatarImg: avatar3,
     },
